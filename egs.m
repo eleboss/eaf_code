@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This code is an unoptimized version, with square complexity. But it is still quite fast. We will release the optimized version with linear complexity once we have done the preparation.
+% This code is an unoptimized version with square complexity. But it is still quite fast. We will release the optimized version with linear complexity once we have done the preparation.
 % Author: Shijie Lin
 % Email: lsj2048@connect.hku.hk
 % License: MIT
