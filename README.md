@@ -4,15 +4,14 @@
 ## Autofocus for Event Cameras
 
 This contains the implementation of the paper [Autofocus for Event Cameras](https://arxiv.org/abs/2109.01750). 
-Please refer to the [project webpage](https://eleboss.github.io/eaf_webpage/) for the dataset and more information.
+Please refer to the [project webpage](https://eleboss.github.io/eaf_webpage/) for  more information.
 
 ### Install the environment
 Install the [Matlab](https://www.mathworks.com/products/matlab.html)  for your system. 
 
 
-### Download the data EAD
-
-
+### Download the dataset
+[https://doi.org/10.25442/hku.19407884.v1]
 
 ### Usage
 We provide the Matlab code of this work. Simply run the `egs.m` you can get the results. Please follow below steps:
